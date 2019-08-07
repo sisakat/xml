@@ -27,4 +27,4 @@ ExampleObject deserializedObject = ExampleObject.LoadXML("sample.xml");
 If errors occur, an `XmlException` is thrown.
 
 ## Download
-You can download the compiled DLL [here](https://github.com/sisakat/xml/releases/tag/1.0).
+You can download the compiled assembly [here](https://github.com/sisakat/xml/releases/tag/1.0).
