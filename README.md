@@ -1,5 +1,4 @@
 # XML Helper Library
-simple and small xml helper library for the .NET Framework 3.0
 Simple and small XML helper library to serialize and deserialize objects. Targets the .NET Framework 3.0.
 
 ## Usage
