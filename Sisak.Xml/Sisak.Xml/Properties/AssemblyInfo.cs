@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("Sisak.Xml")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Simple and small XML serialization and deserialization")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Stefan Isak")]
 [assembly: AssemblyProduct("Sisak.Xml")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2019, Stefan Isak")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

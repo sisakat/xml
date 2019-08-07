@@ -1,5 +1,5 @@
 # XML Helper Library
-Simple and small XML helper library to serialize and deserialize objects. Targets the .NET Framework 3.0.
+Simple and small XML helper library to serialize and deserialize objects. Targets the .NET Framework 3.0. It does not implement something new, but rather uses functions provided by the .NET Framework.
 
 ## Usage
 Objects that should serializable need the `[Serializable]` annotation. To conviniently serialize and deserialize objects to or from files you can inherit from the `XmlObject<T>` class.
